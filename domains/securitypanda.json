@@ -1,1 +1,10 @@
-
+{
+    "owner": {
+        "username": "dineshv52",
+        "email": "dineshv52@yahoo.in",
+        "twitter": "dineshv_52"
+    },
+    "record": {
+        "CNAME": "dineshv52.github.io"
+    }
+}
